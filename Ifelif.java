@@ -7,10 +7,7 @@ package ifelif;
 
 import java.util.Scanner;
 
-/**
- *
- * @author 10373
- */
+
 public class Ifelif {
 
     /**
